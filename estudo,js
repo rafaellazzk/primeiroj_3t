@@ -1,1 +1,3 @@
-
+console.log ("Alô mundo...");
+alert("Alô mundo...");
+  
